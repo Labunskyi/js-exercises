@@ -1,1 +1,1 @@
-Some exercises
+Some js tasks
